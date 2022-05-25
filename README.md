@@ -1,3 +1,5 @@
+Please check the Hiperbio organization repository https://github.com/hiperbio/cross-dpc-episdet for the updated versions of this application.
+
 # bio-epistasis-detection
 
 ## DPC++ GPU implementation
